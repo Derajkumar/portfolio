@@ -19,7 +19,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           {navItems.map((item) => <NavLink key={item.path} to={item.path} onClick={() => setMenuOpen(false)}>{item.label}</NavLink>)}
         </nav>
         <button className="icon-button theme-toggle" type="button" aria-label="Toggle colour theme" onClick={() => setLightMode((value) => !value)}>{lightMode ? <Moon size={18} /> : <Sun size={18} />}</button>
-        <a className="resume-button" href="/derajkumar-s-resume.pdf">Resume <ArrowUpRight size={15} /></a>
+        <a className="resume-button" href="/portfolio/derajkumar-s-resume.pdf">Resume <ArrowUpRight size={15} /></a>
         <button className="icon-button menu-toggle" type="button" aria-label="Toggle menu" onClick={() => setMenuOpen((value) => !value)}>{menuOpen ? <X size={21} /> : <Menu size={21} />}</button>
       </header>
       <main>{children}</main>
