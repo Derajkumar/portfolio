@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder for Derajkumar S</title>
+  <desc id="desc">A warm editorial portrait placeholder with a monogram.</desc>
+  <rect width="640" height="760" fill="#d6e4d5"/>
+  <circle cx="320" cy="264" r="126" fill="#f2c5a0"/>
+  <path d="M192 252c12-118 248-158 260 8-48-44-99-61-158-42-35 11-67 25-102 34z" fill="#26332e"/>
+  <path d="M138 714c18-201 72-295 182-295s165 94 182 295z" fill="#31584e"/>
+  <path d="M215 382c40 57 168 57 209 0-14 113-195 113-209 0z" fill="#e5a982"/>
+  <circle cx="274" cy="272" r="9" fill="#26332e"/><circle cx="367" cy="272" r="9" fill="#26332e"/>
+  <path d="M286 332c22 14 46 14 68 0" fill="none" stroke="#7d4d40" stroke-width="7" stroke-linecap="round"/>
+  <text x="320" y="650" fill="#e8f0e6" text-anchor="middle" font-family="Georgia,serif" font-size="94">DS</text>
+</svg>
